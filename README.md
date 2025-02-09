@@ -1,6 +1,7 @@
 # 🌙 Dreamweaver : The Arcane Reverie
 
 **Dreambound** is a 2D puzzle-platformer where you play as a wizard trapped in a dream. Navigate surreal dreamscapes, solve physics-based puzzles, and shift between different dream states to escape.
+
 ![Dash](https://github.com/user-attachments/assets/23a443a5-3bcf-4628-ba36-fc400dd352f6)
 
 ## 🕹️ Features
