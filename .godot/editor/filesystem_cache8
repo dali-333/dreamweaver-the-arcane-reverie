@@ -1,0 +1,266 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1739083436
+coin.tscn::PackedScene::2041697005183912066::1739082726::0::1::::<><>::res://assets/sprites/coin.gd<>uid://cvca6txy0ktmq::::res://assets/sprites/coin.png
+default_bus_layout.tres::AudioBusLayout::2697928023553834288::1739082969::0::1::::<><>::
+icon.svg::CompressedTexture2D::7900509802197429152::1739024400::1739024472::1::::<><>::
+::res://assets/::1739083605
+Game Logo.png::CompressedTexture2D::3916311280631794::1739083665::1739083668::1::::<><>::
+Game Subtitle.png::CompressedTexture2D::260380764269305969::1739078928::1739083668::1::::<><>::
+icon.png::CompressedTexture2D::6401811123827834532::1739083561::1739083563::1::::<><>::
+::res://assets/fonts/::1739072025
+PixelOperator8-Bold.ttf::FontFile::280779973010900040::1739024400::1739024472::1::::<><>::
+PixelOperator8.ttf::FontFile::5802127114907558403::1739024400::1739024472::1::::<><>::
+::res://assets/music/::1739082765
+time_for_adventure.mp3::AudioStreamMP3::2337794342407741105::1739051794::1739051827::1::::<><>::
+::res://assets/music/soundtrack/::1739082784
+drone.wav::AudioStreamWAV::5706894775821344176::1739073904::1739082784::1::::<><>::
+lucid.wav::AudioStreamWAV::3464293966098125159::1739073904::1739082784::1::::<><>::
+main menu.wav::AudioStreamWAV::6206969782231401119::1739073904::1739082784::1::::<><>::
+max tension.wav::AudioStreamWAV::3305604147644585751::1739073904::1739082784::1::::<><>::
+sequencer.wav::AudioStreamWAV::9089560431464318823::1739076232::1739082784::1::::<><>::
+start play.wav::AudioStreamWAV::9079890538499701123::1739073904::1739082784::1::::<><>::
+tension build.wav::AudioStreamWAV::408902445611131414::1739073904::1739082784::1::::<><>::
+::res://assets/Parallax/::1739072025
+Close Clouds Background5.png::CompressedTexture2D::6400563228803554910::1739069929::1739070439::1::::<><>::
+Far Clouds Background3.png::CompressedTexture2D::7380532541818412902::1739069903::1739070433::1::::<><>::
+Mountains Background4.png::CompressedTexture2D::348745580133296585::1739069915::1739070427::1::::<><>::
+Parallax Background.png::CompressedTexture2D::4500749697759239056::1739069973::1739070031::1::::<><>::
+Sky Background1.png::CompressedTexture2D::7662602625480815272::1739069873::1739070419::1::::<><>::
+Stars Background2.png::CompressedTexture2D::1171737086583148921::1739069890::1739070412::1::::<><>::
+::res://assets/sounds/::1739082765
+coin.wav::AudioStreamWAV::2277549317424350455::1739051794::1739051828::1::::<><>::
+explosion.wav::AudioStreamWAV::1794518896610139177::1739051794::1739051828::1::::<><>::
+hurt.wav::AudioStreamWAV::621745923537291523::1739051794::1739051828::1::::<><>::
+jump.wav::AudioStreamWAV::1764793394744371701::1739051794::1739051828::1::::<><>::
+power_up.wav::AudioStreamWAV::8388015179008652787::1739051794::1739051828::1::::<><>::
+tap.wav::AudioStreamWAV::5137638121314117230::1739051794::1739051828::1::::<><>::
+::res://assets/sounds/dash/::1739082784
+dash_1.wav::AudioStreamWAV::937877824276175826::1739073855::1739082784::1::::<><>::
+dash_2.wav::AudioStreamWAV::734770568704618739::1739073855::1739082784::1::::<><>::
+dash_3.wav::AudioStreamWAV::7024343484673469131::1739073855::1739082784::1::::<><>::
+dash_4.wav::AudioStreamWAV::9203005598682589604::1739073855::1739082784::1::::<><>::
+::res://assets/sounds/walk/::1739082784
+walk_1.wav::AudioStreamWAV::2836139492957923127::1739073855::1739082784::1::::<><>::
+walk_2.wav::AudioStreamWAV::5304009366095213743::1739073855::1739082784::1::::<><>::
+walk_3.wav::AudioStreamWAV::1144852417434426878::1739073855::1739082784::1::::<><>::
+walk_4.wav::AudioStreamWAV::3490305034889487085::1739073855::1739082784::1::::<><>::
+walk_5.wav::AudioStreamWAV::879016444044115083::1739073855::1739082784::1::::<><>::
+::res://assets/sprites/::1739082703
+bgCaveBackGround.png::CompressedTexture2D::1277551074867795784::1600435751::1739052029::1::::<><>::
+Button.png::CompressedTexture2D::3087600566527990023::1739056967::1739060366::1::::<><>::
+coin.gd::GDScript::-1::1739082703::0::1::::<>Area2D<>::
+coin.png::CompressedTexture2D::6250992233502481812::1739024400::1739024472::1::::<><>::
+cube rotating thing.png::CompressedTexture2D::8010763040915337784::1739049301::1739052029::1::::<><>::
+dash_particle.png::CompressedTexture2D::8570769693030431803::1600435751::1739052029::1::::<><>::
+Dimensional_Portal.png::CompressedTexture2D::538169707870073669::1739034425::1739052029::1::::<><>::
+Door.png::CompressedTexture2D::4806528487917883334::1739056977::1739060366::1::::<><>::
+foot_step.png::CompressedTexture2D::2747686727100109964::1600435751::1739052029::1::::<><>::
+fruit.png::CompressedTexture2D::4075992253218290141::1739024400::1739024472::1::::<><>::
+Green Portal Sprite Sheet.png::CompressedTexture2D::3239926835391980209::1739034874::1739052029::1::::<><>::
+Halo.png::CompressedTexture2D::6311617024062603864::1739043452::1739052029::1::::<><>::
+knight.png::CompressedTexture2D::9072297217102883183::1739024400::1739024472::1::::<><>::
+platforms.png::CompressedTexture2D::1423541376214862670::1739024400::1739024472::1::::<><>::
+player.png::CompressedTexture2D::5787281215126896865::1739046948::1739052999::1::::<><>::
+playerv2.png::CompressedTexture2D::6530455143785354252::1739037086::1739052029::1::::<><>::
+slime_green.png::CompressedTexture2D::4434638065764619332::1739024400::1739024472::1::::<><>::
+slime_purple.png::CompressedTexture2D::1820581391699609149::1739024400::1739024472::1::::<><>::
+square.png::CompressedTexture2D::375906772819483550::1600435751::1739052029::1::::<><>::
+Tiles-export.png::CompressedTexture2D::29532160897134911::1739025133::1739025242::1::::<><>::
+Tiles-exportv2.png::CompressedTexture2D::9081370353565304763::1739035570::1739052029::1::::<><>::
+Tiles-exportv3.png::CompressedTexture2D::6054049873830215456::1739046723::1739052029::1::::<><>::
+world_tileset.png::CompressedTexture2D::7990317455030416963::1739024400::1739024472::1::::<><>::
+::res://assets/sprites/Rat/::1739072025
+::res://assets/sprites/Rat/IDLE/::1739072025
+sRatBig_Idle_0.png::CompressedTexture2D::2511855103203669512::1600435751::1739052029::1::::<><>::
+sRatBig_Idle_1.png::CompressedTexture2D::8329136671173991993::1600435751::1739052029::1::::<><>::
+sRatBig_Idle_2.png::CompressedTexture2D::6721433096764122845::1600435751::1739052029::1::::<><>::
+sRatBig_Idle_3.png::CompressedTexture2D::1977056140965613522::1600435751::1739052029::1::::<><>::
+whip.png::CompressedTexture2D::566621963506515193::1600435751::1739052029::1::::<><>::
+::res://assets/sprites/Rat/RUN/::1739072025
+sRatBig_Run_0.png::CompressedTexture2D::4234817391591823120::1600435751::1739052029::1::::<><>::
+sRatBig_Run_1.png::CompressedTexture2D::2858175776950029862::1600435751::1739052029::1::::<><>::
+sRatBig_Run_2.png::CompressedTexture2D::7884107334320450390::1600435751::1739052029::1::::<><>::
+sRatBig_Run_3.png::CompressedTexture2D::569063712372548660::1600435751::1739052029::1::::<><>::
+sRatBig_Run_4.png::CompressedTexture2D::5031130448138120107::1600435751::1739052029::1::::<><>::
+sRatBig_Run_5.png::CompressedTexture2D::5459691049910115323::1600435751::1739052029::1::::<><>::
+::res://assets/sprites/sprites2/::1739072025
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/::1739072026
+README.txt::TextFile::-1::1739051794::0::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/enemies sprites/::1739072025
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/enemies sprites/bomber goblin/::1739072025
+bomber_goblin_attack_anim_strip_6.png::CompressedTexture2D::5226208182702948985::1739051794::1739051828::1::::<><>::
+bomber_goblin_death_anim_strip_6.png::CompressedTexture2D::5217881927728830195::1739051794::1739051828::1::::<><>::
+bomber_goblin_hit_anim_strip_3.png::CompressedTexture2D::7970006030217202380::1739051794::1739051828::1::::<><>::
+bomber_goblin_idle_anim_strip_4.png::CompressedTexture2D::2561901766518080797::1739051794::1739051828::1::::<><>::
+goblin_bomber_spritesheet.png::CompressedTexture2D::2670011046542973051::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/enemies sprites/fly/::1739072025
+blue_fly_attack_anim_srip_3.png::CompressedTexture2D::2215459773927103512::1739051794::1739051828::1::::<><>::
+blue_fly_death_anim_strip_5.png::CompressedTexture2D::3681731207767094469::1739051794::1739051828::1::::<><>::
+blue_fly_hit_anim_strip_3.png::CompressedTexture2D::8639096383478102357::1739051794::1739051828::1::::<><>::
+blue_fly_idle_or_flying_anim_strip_3.png::CompressedTexture2D::4932057898654633990::1739051794::1739051828::1::::<><>::
+fly_spritesheet.png::CompressedTexture2D::8692713370571558440::1739051794::1739051828::1::::<><>::
+orange_fly_atack_anim_srip_3.png::CompressedTexture2D::3000131084545231845::1739051794::1739051828::1::::<><>::
+orange_fly_death_anim_strip_5.png::CompressedTexture2D::1135599161864583500::1739051794::1739051828::1::::<><>::
+orange_fly_hit_anim_strip_3.png::CompressedTexture2D::1105358181465581529::1739051794::1739051828::1::::<><>::
+orange_fly_idle_or_flying_anim_strip_3.png::CompressedTexture2D::3740469943380544202::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/enemies sprites/goblin/::1739072025
+goblin_attack_anim_strip_4.png::CompressedTexture2D::4691422093869280300::1739051794::1739051828::1::::<><>::
+goblin_death_anim_strip_6.png::CompressedTexture2D::6346668899233528251::1739051794::1739051828::1::::<><>::
+goblin_hit_anim_strip_3.png::CompressedTexture2D::2326217158714557963::1739051794::1739051828::1::::<><>::
+goblin_idle_anim_strip_4.png::CompressedTexture2D::8093534909405706201::1739051794::1739051828::1::::<><>::
+goblin_run_anim_strip_6.png::CompressedTexture2D::8646252372607451582::1739051794::1739051828::1::::<><>::
+goblin_spritesheet.png::CompressedTexture2D::1674423635734356666::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/enemies sprites/mushroom/::1739072025
+mushroom_crushed_anim_strip_6.png::CompressedTexture2D::793064657585782219::1739051794::1739051828::1::::<><>::
+mushroom_death_anim_strip_6.png::CompressedTexture2D::7899677551044794009::1739051794::1739051828::1::::<><>::
+mushroom_hit_anim_strip_3.png::CompressedTexture2D::7049828968451468831::1739051794::1739051828::1::::<><>::
+mushroom_spritesheet.png::CompressedTexture2D::7906260752096674142::1739051794::1739051828::1::::<><>::
+mushroom_walk_anim_strip_8.png::CompressedTexture2D::1919625271658598878::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/enemies sprites/slime/::1739072025
+slime_death_anim_strip_6.png::CompressedTexture2D::2469179379000317839::1739051794::1739051828::1::::<><>::
+slime_hit_anim_strip_3.png::CompressedTexture2D::7116006603567399150::1739051794::1739051828::1::::<><>::
+slime_idle_anim_strip_5.png::CompressedTexture2D::493419655668715371::1739051794::1739051828::1::::<><>::
+slime_spritesheet.png::CompressedTexture2D::2591474023486566202::1739051794::1739051828::1::::<><>::
+slime_walk_anim_strip_15.png::CompressedTexture2D::821189572447040311::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/enemies sprites/worm/::1739072025
+worm_death_anim_strip_6.png::CompressedTexture2D::7431595039157441798::1739051794::1739051828::1::::<><>::
+worm_hit_anim_strip_3.png::CompressedTexture2D::6470399929926680597::1739051794::1739051828::1::::<><>::
+worm_spritesheet.png::CompressedTexture2D::5951862341752349442::1739051794::1739051828::1::::<><>::
+worm_walk_anim_strip_6.png::CompressedTexture2D::7136056190279831182::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/fauna sprites/::1739072025
+bird_flying_anim_strip_3.png::CompressedTexture2D::5066713807540949613::1739051794::1739051828::1::::<><>::
+bird_idle_anim_strip_8.png::CompressedTexture2D::6639428177608268452::1739051794::1739051828::1::::<><>::
+bird_walk_anim_strip_3.png::CompressedTexture2D::3886848473520573410::1739051794::1739051828::1::::<><>::
+fauna_spritesheet.png::CompressedTexture2D::5482331957924341582::1739051794::1739051828::1::::<><>::
+rabit_idle_anim_strip_4.png::CompressedTexture2D::8294756780341034722::1739051794::1739051828::1::::<><>::
+rabit_walk_anim_strip_6.png::CompressedTexture2D::7683527953843028654::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/herochar sprites(new)/::1739072026
+herochar_after_jump_dust_anim_strip_4.png::CompressedTexture2D::655804890222593882::1739051794::1739051828::1::::<><>::
+herochar_attack_anim_strip_4(new).png::CompressedTexture2D::1433374425958872739::1739051794::1739051828::1::::<><>::
+herochar_before_jump_dust_anim_strip_4.png::CompressedTexture2D::5304426527557781783::1739051794::1739051828::1::::<><>::
+herochar_before_or_after_jump_srip_2.png::CompressedTexture2D::8595414116306649368::1739051794::1739051828::1::::<><>::
+herochar_death_anim_strip_8.png::CompressedTexture2D::2256819987681623806::1739051794::1739051828::1::::<><>::
+herochar_hit_anim_strip_3.png::CompressedTexture2D::4765000440097735145::1739051794::1739051828::1::::<><>::
+herochar_idle_anim_strip_4.png::CompressedTexture2D::5935005989275413027::1739051794::1739051828::1::::<><>::
+herochar_jump_double_anim_strip_3.png::CompressedTexture2D::4958778060298412950::1739051794::1739051828::1::::<><>::
+herochar_jump_down_anim_strip_3.png::CompressedTexture2D::137943090453877406::1739051794::1739051828::1::::<><>::
+herochar_jump_up_anim_strip_3.png::CompressedTexture2D::5477085629101305013::1739051794::1739051828::1::::<><>::
+herochar_pushing_foward_anim_strip_6.png::CompressedTexture2D::8719784483116633966::1739051794::1739051828::1::::<><>::
+herochar_run_anim_strip_6.png::CompressedTexture2D::5706025384430762788::1739051794::1739051828::1::::<><>::
+herochar_spritesheet(new).png::CompressedTexture2D::345716880350482907::1739051794::1739051828::1::::<><>::
+herochar_sword_attack_anim_strip_4.png::CompressedTexture2D::6873198227614379481::1739051794::1739051828::1::::<><>::
+hit_sparkle_anim_strip_4.png::CompressedTexture2D::4056582395952030400::1739051794::1739051828::1::::<><>::
+sword_effect_strip_4(new).png::CompressedTexture2D::8449786553547072257::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/hud elements/::1739072026
+coins_hud.png::CompressedTexture2D::1636054637601119099::1739051794::1739051828::1::::<><>::
+fonts.png::CompressedTexture2D::5290558514097479103::1739051794::1739051828::1::::<><>::
+health_hud_left.png::CompressedTexture2D::7015916040458601573::1739051794::1739051828::1::::<><>::
+health_hud_middle.png::CompressedTexture2D::4704304746675419039::1739051794::1739051828::1::::<><>::
+health_hud_right.png::CompressedTexture2D::2592176219626891229::1739051794::1739051828::1::::<><>::
+health_menu_hud.png::CompressedTexture2D::3384972968747442724::1739051794::1739051828::1::::<><>::
+hearts_hud.png::CompressedTexture2D::8659953693574048804::1739051794::1739051828::1::::<><>::
+lifes_icon.png::CompressedTexture2D::1140335753794150692::1739051794::1739051828::1::::<><>::
+lost_hearts_anim_strip_5.png::CompressedTexture2D::3080705493039075640::1739051794::1739051828::1::::<><>::
+no_hearts_hud.png::CompressedTexture2D::6215871220291220280::1739051794::1739051828::1::::<><>::
+orbs_hud.png::CompressedTexture2D::6471439435481497703::1739051794::1739051828::1::::<><>::
+select_icon_anim_strip_5.png::CompressedTexture2D::4884602239122311442::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/miscellaneous sprites/::1739072026
+antidote_potion.png::CompressedTexture2D::1447205963440612405::1739051794::1739051828::1::::<><>::
+apple_item.png::CompressedTexture2D::7039612643926597382::1739051794::1739051828::1::::<><>::
+arrow_plate_left.png::CompressedTexture2D::6590941606475460703::1739051794::1739051828::1::::<><>::
+arrow_plate_right.png::CompressedTexture2D::3944116413714012840::1739051794::1739051828::1::::<><>::
+bigflowers_props.png::CompressedTexture2D::5816150464552960628::1739051794::1739051828::1::::<><>::
+bomb_on_ground_anim_strip_8.png::CompressedTexture2D::1299584706742789381::1739051794::1739051828::1::::<><>::
+bomb_thrown_anim_strip_3.png::CompressedTexture2D::1780501449241655607::1739051794::1739051828::1::::<><>::
+buttom.png::CompressedTexture2D::8028776622630253400::1739051794::1739051828::1::::<><>::
+buttom_pressed.png::CompressedTexture2D::1575179147694506566::1739051794::1739051828::1::::<><>::
+coin_anim_strip_6.png::CompressedTexture2D::1655261838746763851::1739051794::1739051828::1::::<><>::
+coin_pickup_anim_strip_6.png::CompressedTexture2D::3597989456454475867::1739051794::1739051828::1::::<><>::
+door.png::CompressedTexture2D::6435259584780142381::1739051794::1739051828::1::::<><>::
+drygrass_props.png::CompressedTexture2D::7100659908329942825::1739051794::1739051828::1::::<><>::
+explosion_anim_strip_10.png::CompressedTexture2D::1398824383665201383::1739051794::1739051828::1::::<><>::
+flowers_props.png::CompressedTexture2D::2837611877020463725::1739051794::1739051828::1::::<><>::
+grass_props.png::CompressedTexture2D::5960349470606867797::1739051794::1739051828::1::::<><>::
+health_potion.png::CompressedTexture2D::2834772473819206456::1739051794::1739051828::1::::<><>::
+lever_turned_left.png::CompressedTexture2D::1170068631124821089::1739051794::1739051828::1::::<><>::
+lever_turned_right.png::CompressedTexture2D::2087836746187066277::1739051794::1739051828::1::::<><>::
+loot_box_anim_opening_strip_6.png::CompressedTexture2D::360299234891175767::1739051794::1739051828::1::::<><>::
+loot_box_anim_strip_12.png::CompressedTexture2D::2052871343405673110::1739051794::1739051828::1::::<><>::
+loot_box_open.png::CompressedTexture2D::674180521765097584::1739051794::1739051828::1::::<><>::
+meat_item.png::CompressedTexture2D::2514879092990938878::1739051794::1739051828::1::::<><>::
+orb.png::CompressedTexture2D::9164966600014642386::1739051794::1739051828::1::::<><>::
+orb_anim_strip_6.png::CompressedTexture2D::861024155520902763::1739051794::1739051828::1::::<><>::
+orb_collected_anim_strip_5.png::CompressedTexture2D::8645308151556575463::1739051794::1739051828::1::::<><>::
+root_props.png::CompressedTexture2D::1730378057252462910::1739051794::1739051828::1::::<><>::
+save_point_anim_strip_9.png::CompressedTexture2D::9064503464890709885::1739051794::1739051828::1::::<><>::
+save_point_saving_anim_strip_3.png::CompressedTexture2D::4547415916580911413::1739051794::1739051828::1::::<><>::
+spikes.png::CompressedTexture2D::2327191196531784389::1739051794::1739051828::1::::<><>::
+spikes_trap.png::CompressedTexture2D::2359599939816196561::1739051794::1739051828::1::::<><>::
+spikes_trap_hit_wall_dust_effect_strip_3.png::CompressedTexture2D::1605005396381769442::1739051794::1739051828::1::::<><>::
+stone.png::CompressedTexture2D::2310602636581312355::1739051794::1739051828::1::::<><>::
+strange_door_closed_anim_strip_10.png::CompressedTexture2D::597660121983412616::1739051794::1739051828::1::::<><>::
+strange_door_opening_anim_strip_14.png::CompressedTexture2D::7061833763042823629::1739051794::1739051828::1::::<><>::
+tiki_torch_props_strip_12.png::CompressedTexture2D::3415362984637449567::1739051794::1739051828::1::::<><>::
+trap_spikes_anim_strip_7.png::CompressedTexture2D::1686555410798555422::1739051794::1739051828::1::::<><>::
+trap_suspended_anim_strip_18.png::CompressedTexture2D::3410127421708074869::1739051794::1739051828::1::::<><>::
+vase.png::CompressedTexture2D::6082681230653059217::1739051794::1739051828::1::::<><>::
+vase_breaking_anim_strip_5.png::CompressedTexture2D::5983676847601826447::1739051794::1739051828::1::::<><>::
+wooden_plate.png::CompressedTexture2D::6771519885017214401::1739051794::1739051828::1::::<><>::
+wood_slab_left.png::CompressedTexture2D::2373115882491987407::1739051794::1739051828::1::::<><>::
+wood_slab_middle.png::CompressedTexture2D::7586208863803404944::1739051794::1739051828::1::::<><>::
+wood_slab_right.png::CompressedTexture2D::7989789897817605427::1739051794::1739051828::1::::<><>::
+::res://assets/sprites/sprites2/platformer_metroidvania asset pack v1.01/tiles and background_foreground (new)/::1739072026
+background.png::CompressedTexture2D::2179179335747929115::1739051794::1739051828::1::::<><>::
+bg_0.png::CompressedTexture2D::6591098779911195869::1739051794::1739051828::1::::<><>::
+bg_1.png::CompressedTexture2D::1628542656992820365::1739051794::1739051828::1::::<><>::
+bg_2.png::CompressedTexture2D::3369253786577022570::1739051794::1739051828::1::::<><>::
+fg_0.png::CompressedTexture2D::1889341971438561588::1739051794::1739051828::1::::<><>::
+fg_1.png::CompressedTexture2D::198831766623178270::1739051794::1739051828::1::::<><>::
+tileset.png::CompressedTexture2D::3134715772499718960::1739051794::1739051828::1::::<><>::
+tileset_32x32(new).png::CompressedTexture2D::2878216635193793992::1739051794::1739051828::1::::<><>::
+tileset_64x64(new).png::CompressedTexture2D::2454527559425165463::1739051794::1739051828::1::::<><>::
+waterfall_anim_strip_4.png::CompressedTexture2D::6128160844211516864::1739051794::1739051828::1::::<><>::
+waterfall_bottom_anim_strip_4.png::CompressedTexture2D::5743767194667887244::1739051794::1739051828::1::::<><>::
+::res://assets/ui/::1739081527
+Cursor.png::CompressedTexture2D::6281157951127076242::1739072542::1739072604::1::::<><>::
+LucBar.png::CompressedTexture2D::6023261714521738204::1739081523::1739081527::1::::<><>::
+LucBarProg.png::CompressedTexture2D::3569699650950228258::1739081511::1739081527::1::::<><>::
+NBar.png::CompressedTexture2D::6589296912936116350::1739081475::1739081527::1::::<><>::
+NBarProg.png::CompressedTexture2D::4536267157670465394::1739081495::1739081527::1::::<><>::
+Quit.png::CompressedTexture2D::2726680888687928529::1739072580::1739072604::1::::<><>::
+Resume Button.png::CompressedTexture2D::6215042234865002620::1739072530::1739072604::1::::<><>::
+Start Button.png::CompressedTexture2D::4023310840711440313::1739072520::1739072604::1::::<><>::
+x.png::CompressedTexture2D::287514315413891571::1739072586::1739072604::1::::<><>::
+::res://scenes/::1739083461
+coin.tscn::PackedScene::4757340537656972282::1739082726::0::1::::<><>::res://assets/sprites/coin.gd<>uid://cvca6txy0ktmq::::res://assets/sprites/coin.png
+dash_sprite.tscn::PackedScene::1784856357130025568::1739077834::0::1::::<><>::res://script/dash_sprite.gd
+doorbutton.tscn::PackedScene::3648691286345974285::1739083404::0::1::::<><>::res://script/doorbutton.gd<>uid://caqk27gb6sx3s::::res://assets/sprites/Door.png<>uid://bj8wlh0hy3xi2::::res://assets/sprites/Button.png
+dream_bar.gd::GDScript::-1::1739081315::0::1::::<>TextureProgressBar<>::
+Footstep.tscn::PackedScene::331062083598865107::1739060400::0::1::::<><>::res://script/Footstep.gd<>uid://bfe88714ianqy::::res://assets/sprites/foot_step.png
+leveltemp.tscn::PackedScene::1120326328557275162::1739079629::0::1::::<><>::res://script/gamemanager.gd<>uid://sg4cx7wh2x0s::::res://assets/sprites/bgCaveBackGround.png<>uid://c6sry7ub187sk::::res://scenes/player.tscn<>uid://ccdqolmamrac0::::res://scenes/portal.tscn<>uid://oknjjksb16r::::res://assets/sprites/Tiles-export.png<>uid://csivk1l85kcw3::::res://assets/sprites/Tiles-exportv3.png<>uid://b81qx6mi0tw1g::::res://scenes/coin.tscn<>uid://b7u7y7wisordo::::res://scenes/lvl_1.tscn<>uid://eaan1ll3vtdo::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://1j8eb66jo0me::::res://scenes/testobj.tscn<>uid://br8poa0grs6sn::::res://scenes/doorbutton.tscn
+lvl0.tscn::PackedScene::2485869382449358782::1739079339::0::1::::<><>::res://script/gamemanager.gd<>uid://sg4cx7wh2x0s::::res://assets/sprites/bgCaveBackGround.png<>uid://oknjjksb16r::::res://assets/sprites/Tiles-export.png<>uid://csivk1l85kcw3::::res://assets/sprites/Tiles-exportv3.png<>uid://c6sry7ub187sk::::res://scenes/player.tscn<>uid://di37lqjtxw2ik::::res://scenes/platform.tscn<>uid://p7xu1i07yqwo::::res://scenes/leveltemp.tscn<>uid://eaan1ll3vtdo::::res://assets/fonts/PixelOperator8-Bold.ttf<>uid://ccdqolmamrac0::::res://scenes/portal.tscn
+lvl2.tscn::PackedScene::1558061559405040165::1739083461::0::1::::<><>::uid://sg4cx7wh2x0s::::res://assets/sprites/bgCaveBackGround.png<>uid://oknjjksb16r::::res://assets/sprites/Tiles-export.png<>uid://csivk1l85kcw3::::res://assets/sprites/Tiles-exportv3.png<>uid://c6sry7ub187sk::::res://scenes/player.tscn<>uid://di37lqjtxw2ik::::res://scenes/platform.tscn<>uid://ccdqolmamrac0::::res://scenes/portal.tscn<>uid://b81qx6mi0tw1g::::res://scenes/coin.tscn<>uid://br8poa0grs6sn::::res://scenes/doorbutton.tscn<>uid://1j8eb66jo0me::::res://scenes/testobj.tscn<>res://script/gamemanager.gd
+lvl_1.tscn::PackedScene::4675738753134586440::1739080850::0::1::::<><>::res://script/gamemanager.gd<>uid://sg4cx7wh2x0s::::res://assets/sprites/bgCaveBackGround.png<>uid://oknjjksb16r::::res://assets/sprites/Tiles-export.png<>uid://csivk1l85kcw3::::res://assets/sprites/Tiles-exportv3.png<>uid://c6sry7ub187sk::::res://scenes/player.tscn<>uid://ccdqolmamrac0::::res://scenes/portal.tscn<>uid://di37lqjtxw2ik::::res://scenes/platform.tscn<>uid://ddv5ai5k47gm6::::res://scenes/main_menu.tscn<>uid://b81qx6mi0tw1g::::res://scenes/coin.tscn<>uid://br8poa0grs6sn::::res://scenes/doorbutton.tscn<>uid://1j8eb66jo0me::::res://scenes/testobj.tscn
+main_menu.gd::GDScript::-1::1739077606::0::1::::<>Control<>::
+main_menu.tscn::PackedScene::7415002491636956255::1739081010::0::1::::<><>::uid://bxk6lvbqycgrp::::res://assets/ui/Start Button.png<>res://scenes/main_menu.gd<>uid://be33bhpt4c538::::res://assets/ui/Quit.png<>uid://bbof512kg55hi::::res://scenes/lvl0.tscn
+night_bar.gd::GDScript::-1::1739082203::0::1::::<>TextureProgressBar<>::
+night_timer.gd::GDScript::-1::1739082711::0::1::::<>Timer<>::
+night_timer.tscn::PackedScene::2372734397042125386::1739082726::0::1::::<><>::res://scenes/night_timer.gd
+platform.tscn::PackedScene::7780538819970463686::1739079340::0::1::::<><>::uid://csivk1l85kcw3::::res://assets/sprites/Tiles-exportv3.png
+player.tscn::PackedScene::6986931079393837110::1739083457::0::1::::<><>::res://script/player.gd<>uid://eymsrbgxscj0::::res://scenes/Footstep.tscn<>uid://copnw8sxctd66::::res://assets/sprites/player.png<>uid://0ouk85exvjmm::::res://scenes/dash_sprite.tscn<>uid://c0bnv3jmkrnou::::res://assets/sprites/playerv2.png<>uid://cqkygcbs7p8y3::::res://scenes/ui.tscn<>uid://dud0lbju5ukcp::::res://assets/sprites/dash_particle.png<>uid://dmeqdkaou3dvc::::res://assets/sprites/cube rotating thing.png<>uid://cv6nn7imsfv65::::res://assets/sprites/Halo.png<>uid://c2gt8e82shmrf::::res://scenes/audio_scenes/dash_sfx.tscn<>uid://dvbnf0iwk0hfg::::res://scenes/audio_scenes/footstep_sfx.tscn
+portal.tscn::PackedScene::4920409257234587045::1739079340::0::1::::<><>::uid://hwxtunhv38hd::::res://assets/sprites/Dimensional_Portal.png<>res://script/portal.gd
+soundtrack.tscn::PackedScene::8914905422502260956::1739082813::0::1::::<><>::uid://cuox5dujbn4pv::::res://assets/music/soundtrack/main menu.wav<>uid://d2mmp88xvv2lj::::res://assets/music/soundtrack/start play.wav<>uid://f3ctfpj42qrm::::res://assets/music/soundtrack/tension build.wav<>uid://bndi214npewnv::::res://assets/music/soundtrack/max tension.wav<>uid://cnkpyt8qekero::::res://assets/music/soundtrack/drone.wav<>uid://bpmeoekdqyjqd::::res://assets/music/soundtrack/lucid.wav
+testobj.tscn::PackedScene::1845500240145684640::1739079340::0::1::::<><>::uid://fmden35efesc::::res://assets/sprites/square.png<>res://script/moveobj.gd
+ui.tscn::PackedScene::5917974673177876168::1739082726::0::1::::<><>::uid://cr2yif62oo4wm::::res://assets/ui/LucBar.png<>uid://c04500uyw2b3k::::res://assets/ui/NBar.png<>uid://bq4goxb8vidqg::::res://assets/ui/LucBarProg.png<>uid://b5vnwl4xvahg1::::res://assets/ui/NBarProg.png<>res://scenes/night_bar.gd<>res://scenes/dream_bar.gd
+::res://scenes/audio_scenes/::1739082780
+dash_sfx.tscn::PackedScene::6681539228521905903::1739073999::0::1::::<><>::uid://nmkyfu6wxm2u::::res://assets/sounds/dash/dash_1.wav<>uid://kp6tf5eidj28::::res://assets/sounds/dash/dash_2.wav<>uid://c7cv58a6nljp8::::res://assets/sounds/dash/dash_3.wav<>uid://d4eafmhwp3wwq::::res://assets/sounds/dash/dash_4.wav
+footstep_sfx.tscn::PackedScene::8636091721563654004::1739073999::0::1::::<><>::uid://bgn32kmn4j5lr::::res://assets/sounds/walk/walk_1.wav<>uid://chtki214r1ipr::::res://assets/sounds/walk/walk_2.wav<>uid://qkts1f1o8gpa::::res://assets/sounds/walk/walk_3.wav<>uid://bpyy2w74bf4e0::::res://assets/sounds/walk/walk_4.wav<>uid://mr2ji5x7ec5h::::res://assets/sounds/walk/walk_5.wav
+::res://script/::1739083457
+dash_sprite.gd::GDScript::-1::1739083457::0::1::::<>Sprite2D<>::
+doorbutton.gd::GDScript::-1::1739077000::0::1::::<>Node2D<>::
+Footstep.gd::GDScript::-1::1739077606::0::1::::<>GPUParticles2D<>::
+gamemanager.gd::GDScript::-1::1739081681::0::1::::GameManager<>Node<>::
+moveobj.gd::GDScript::-1::1739077606::0::1::::MoveObj<>Area2D<>::
+player.gd::GDScript::-1::1739083320::0::1::::<>CharacterBody2D<>::
+portal.gd::GDScript::-1::1739082550::0::1::::<>AnimatedSprite2D<>::
+signals.gd::GDScript::-1::1739082517::0::1::::<>Node<>::

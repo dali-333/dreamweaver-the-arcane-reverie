@@ -1,0 +1,15 @@
+AudioStreamPlayer2D
+Node2D
+Timer
+TextureProgressBar
+HBoxContainer
+CollisionShape2D
+Area2D
+CanvasLayer
+CenterContainer
+Control
+VBoxContainer
+TextureButton
+Button
+ParallaxLayer
+Parallax2D

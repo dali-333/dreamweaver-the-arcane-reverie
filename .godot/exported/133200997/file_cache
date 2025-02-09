@@ -1,0 +1,16 @@
+res://scenes/audio_scenes/dash_sfx.tscn::1b4930a123bde8804ee09477ec2e259f::1739073999::res://.godot/exported/133200997/export-ec00702825317d0a46bc72d912e46e15-dash_sfx.scn
+res://scenes/audio_scenes/footstep_sfx.tscn::1a524086288c81f6d5473685d1a0fc2a::1739073999::res://.godot/exported/133200997/export-50849cec8742a2bf7749db03c7fd77d4-footstep_sfx.scn
+res://scenes/coin.tscn::4f236c7a11a86a6c89aae97d0c5f7d76::1739082726::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
+res://scenes/dash_sprite.tscn::c37af969e3a7543a428e3ce01590d500::1739077834::res://.godot/exported/133200997/export-279a1759f2b59334ac7b1dd8fbc6a18a-dash_sprite.scn
+res://scenes/doorbutton.tscn::062ce629ef831465cefde4bc16ab012e::1739083404::res://.godot/exported/133200997/export-1eb8587ee9f36c82c76483705fa517e4-doorbutton.scn
+res://scenes/Footstep.tscn::df6fd396b01782dcfaee46b0c73f2242::1739060400::res://.godot/exported/133200997/export-9ec9b6ae2f6e22712a67824eaa5611fc-Footstep.scn
+res://scenes/lvl2.tscn::77b351a443086c15cdcd333e113af597::1739083709::res://.godot/exported/133200997/export-922ba794629c4067d0621eb018fec5e4-lvl2.scn
+res://scenes/night_timer.tscn::db39ffdc8c3ba49c6ef958e5bf3bd26e::1739082726::res://.godot/exported/133200997/export-d1931e4c8922e76194c286c4c965f72c-night_timer.scn
+res://scenes/platform.tscn::925e5f1eeb426ac370223ee687cff8ac::1739079340::res://.godot/exported/133200997/export-cc2f727180cd42d9c13434cb55b1ce69-platform.scn
+res://scenes/player.tscn::5dd2a4f2048f3dc58313df6e95d2c01f::1739083457::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://scenes/portal.tscn::61320d47f9be4afccf0439cd7f13868e::1739079340::res://.godot/exported/133200997/export-f074f8226365829507402181bf60e300-portal.scn
+res://scenes/soundtrack.tscn::cad505b5e2291c6a23e5da1c3a2a86bd::1739082813::res://.godot/exported/133200997/export-2636e4dd7c390edaa284980eab5f0075-soundtrack.scn
+res://scenes/testobj.tscn::a4882191f98e0fe92b3bbf35b7770859::1739079340::res://.godot/exported/133200997/export-0c64d4670d075cb41def08e93f546402-testobj.scn
+res://scenes/ui.tscn::ba63faf542e0f8b0077f2a8e5cc411f1::1739082726::res://.godot/exported/133200997/export-9211dc52ac9df169ba4fe77cbc1dc833-ui.scn
+res://coin.tscn::6ca65ef5d5d7936430d402e8bc1f778c::1739082726::res://.godot/exported/133200997/export-2c627f0aeee2256356f1e6ba540049dd-coin.scn
+res://default_bus_layout.tres::626f3aab9496642f00b77ee399896ebf::1739082969::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
