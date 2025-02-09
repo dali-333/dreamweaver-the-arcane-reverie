@@ -18,8 +18,10 @@
 - **Shift Dream State:** TBD
 
 ## 🖼️ Screenshots
-![Placeholder Screenshot](https://via.placeholder.com/800x450)
-![Placeholder Screenshot](https://via.placeholder.com/800x450)
+![Lucid](https://github.com/user-attachments/assets/e3113152-a5d9-4129-ac14-751c7eca4444)
+![Dash](https://github.com/user-attachments/assets/23a443a5-3bcf-4628-ba36-fc400dd352f6)
+![Nightmare Run](https://github.com/user-attachments/assets/4f2ddcc6-dba7-426e-9ef2-1d80f0f4a76d)
+
 
 ## 🔧 Development
 - **Engine:** Godot
