@@ -1,0 +1,19 @@
+[gd_scene load_steps=7 format=3 uid="uid://dvbnf0iwk0hfg"]
+
+[ext_resource type="AudioStream" uid="uid://bgn32kmn4j5lr" path="res://assets/sounds/walk/walk_1.wav" id="1_rx2h8"]
+[ext_resource type="AudioStream" uid="uid://chtki214r1ipr" path="res://assets/sounds/walk/walk_2.wav" id="2_xj2t7"]
+[ext_resource type="AudioStream" uid="uid://qkts1f1o8gpa" path="res://assets/sounds/walk/walk_3.wav" id="3_a53jf"]
+[ext_resource type="AudioStream" uid="uid://bpyy2w74bf4e0" path="res://assets/sounds/walk/walk_4.wav" id="4_mhd0a"]
+[ext_resource type="AudioStream" uid="uid://mr2ji5x7ec5h" path="res://assets/sounds/walk/walk_5.wav" id="5_h8jqd"]
+
+[sub_resource type="AudioStreamRandomizer" id="AudioStreamRandomizer_ya0g1"]
+streams_count = 5
+stream_0/stream = ExtResource("1_rx2h8")
+stream_1/stream = ExtResource("2_xj2t7")
+stream_2/stream = ExtResource("3_a53jf")
+stream_3/stream = ExtResource("4_mhd0a")
+stream_4/stream = ExtResource("5_h8jqd")
+
+[node name="FootstepSfx" type="AudioStreamPlayer2D"]
+stream = SubResource("AudioStreamRandomizer_ya0g1")
+bus = &"PlayerSfx"

@@ -1,0 +1,27 @@
+[gd_scene load_steps=8 format=3 uid="uid://d0apgpo4qr13u"]
+
+[ext_resource type="AudioStream" uid="uid://cuox5dujbn4pv" path="res://assets/music/soundtrack/main menu.wav" id="1_adfml"]
+[ext_resource type="AudioStream" uid="uid://d2mmp88xvv2lj" path="res://assets/music/soundtrack/start play.wav" id="2_v2qq0"]
+[ext_resource type="AudioStream" uid="uid://f3ctfpj42qrm" path="res://assets/music/soundtrack/tension build.wav" id="3_6o7ba"]
+[ext_resource type="AudioStream" uid="uid://bndi214npewnv" path="res://assets/music/soundtrack/max tension.wav" id="4_jvrju"]
+[ext_resource type="AudioStream" uid="uid://cnkpyt8qekero" path="res://assets/music/soundtrack/drone.wav" id="5_povcd"]
+[ext_resource type="AudioStream" uid="uid://bpmeoekdqyjqd" path="res://assets/music/soundtrack/lucid.wav" id="6_wy47v"]
+
+[sub_resource type="AudioStreamSynchronized" id="AudioStreamSynchronized_t1beq"]
+stream_count = 6
+stream_0/stream = ExtResource("1_adfml")
+stream_0/volume = 0.0
+stream_1/stream = ExtResource("2_v2qq0")
+stream_1/volume = 0.0
+stream_2/stream = ExtResource("3_6o7ba")
+stream_2/volume = -60.0
+stream_3/stream = ExtResource("4_jvrju")
+stream_3/volume = -60.0
+stream_4/stream = ExtResource("5_povcd")
+stream_4/volume = -60.0
+stream_5/stream = ExtResource("6_wy47v")
+stream_5/volume = -60.0
+
+[node name="Soundtrack" type="AudioStreamPlayer"]
+stream = SubResource("AudioStreamSynchronized_t1beq")
+autoplay = true

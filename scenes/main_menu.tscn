@@ -1,0 +1,121 @@
+[gd_scene load_steps=5 format=3 uid="uid://ddv5ai5k47gm6"]
+
+[ext_resource type="Texture2D" uid="uid://bxk6lvbqycgrp" path="res://assets/ui/Start Button.png" id="1_4w5rs"]
+[ext_resource type="Script" path="res://scenes/main_menu.gd" id="1_xykmd"]
+[ext_resource type="Texture2D" uid="uid://be33bhpt4c538" path="res://assets/ui/Quit.png" id="2_8ysvj"]
+[ext_resource type="PackedScene" uid="uid://bbof512kg55hi" path="res://scenes/lvl0.tscn" id="2_n147c"]
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+pivot_offset = Vector2(600, 416)
+size_flags_horizontal = 6
+size_flags_vertical = 6
+script = ExtResource("1_xykmd")
+level0 = ExtResource("2_n147c")
+
+<<<<<<< Updated upstream
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -280.0
+offset_top = -156.0
+offset_right = 280.0
+offset_bottom = 156.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 18
+
+[node name="Button" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("1_j2o37")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_hw6ec")
+text = "Start Game"
+
+[node name="Button2" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("1_j2o37")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_hw6ec")
+text = "Options"
+
+[node name="Button3" type="Button" parent="VBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 3
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("1_j2o37")
+theme_override_font_sizes/font_size = 30
+theme_override_styles/normal = SubResource("StyleBoxFlat_hw6ec")
+text = "Quit game"
+
+[node name="Panel" type="Panel" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -144.0
+offset_top = -316.0
+offset_right = 151.0
+offset_bottom = -147.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("1_j2o37")
+theme_override_font_sizes/font_size = 40
+text = "ESM EL GAME"
+horizontal_alignment = 1
+vertical_alignment = 1
+=======
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer"]
+layout_mode = 2
+
+[node name="Play" type="TextureButton" parent="CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+texture_normal = ExtResource("1_4w5rs")
+texture_pressed = ExtResource("1_4w5rs")
+texture_hover = ExtResource("1_4w5rs")
+texture_disabled = ExtResource("1_4w5rs")
+texture_focused = ExtResource("1_4w5rs")
+metadata/_edit_use_anchors_ = true
+
+[node name="Quit" type="TextureButton" parent="CenterContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+texture_normal = ExtResource("2_8ysvj")
+texture_pressed = ExtResource("2_8ysvj")
+texture_hover = ExtResource("2_8ysvj")
+texture_disabled = ExtResource("2_8ysvj")
+texture_focused = ExtResource("2_8ysvj")
+metadata/_edit_use_anchors_ = true
+>>>>>>> Stashed changes

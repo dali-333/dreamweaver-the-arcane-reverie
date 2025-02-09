@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://82muayq0l4ha"]
+
+[ext_resource type="Script" path="res://scenes/night_timer.gd" id="1_s7lfi"]
+
+[node name="NightTimer" type="Timer" groups=["nighttimer"]]
+wait_time = 30.0
+autostart = true
+script = ExtResource("1_s7lfi")
